@@ -1,0 +1,30 @@
+The commands you used to get the solution (hint: run history for a list of the commands you ran).
+
+head -n 20 people
+grep "CLUE" crimescene
+ head -n 20 vehicles
+ grep "Annabel" people
+ cd ../mystery
+ head -n 173 streets/Mattapan_Street | tail -n 1
+cd interviews
+ cat interview-9437737
+ cd ..
+head -n 40 streets/Hart_Place | tail -n 1
+cd interviews
+cat interview-47246024
+ cd ..
+  head -n 179 streets/Buckingham_Place | tail -n 1
+  cd interviews/
+  cat interview-699607
+  cd ..
+grep -A 5 "L337" vehicles
+cd memberships/
+cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep "Joe Germuska"
+  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep "Jeremy Bowers"
+  cat AAA Delta_SkyMiles Museum_of_Bash_History library.txt | grep "Aron Pilhofer"
+
+
+
+The name of the killer.
+
+Jeremy Bowers
